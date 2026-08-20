@@ -1,0 +1,38 @@
+# Profile Config
+github_username: "gajonormal"
+username: "gajonormal"
+hostname: "github"
+
+# Personal Info
+name: "Bernardo Maia"
+birthdate: "2004-12-30"   # YYYY-MM-DD — used to compute Uptime
+location: "Portugal"
+
+# Neofetch Fields
+os: "Bernardo Maia"
+host: "Earth"
+languages: "Python, Java, JavaScript, TypeScript, Dart, Kotlin, PHP"
+frameworks: "Flutter, React, Next.js, Node.js, Flask, Spring Boot"
+cloud: "Azure, Firebase, Docker, Git, GitHub Actions"
+databases: "MySQL, MongoDB, MariaDB, Neo4j"
+
+# Contact Info
+email: "bernamaia12@gmail.com"
+linkedin: "bernardo-maia-bpm"
+discord: "gajonormal"
+spoken_languages: "English, Portuguese"
+shell: "zsh"
+
+# ASCII Art directory (drop .txt ASCII art files here)
+art_dir: "ascii_art"
+
+# Animation timing (seconds per art in the SVG animation)
+art_display_seconds: 3.5
+transition_seconds: 0.5
+
+# Dashboard dimensions
+svg_width: 850
+svg_height: 420
+
+# LOC cache file path
+loc_cache_file: ".loc-cache.json"
