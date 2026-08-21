@@ -2482,7 +2482,7 @@
     <text x="532.0" y="47" class="dim">─────────────────</text>
     <text x="532.0" y="85"><tspan class="label">OS: </tspan><tspan fill="#c9d1d9" class="val">Bernardo Maia</tspan></text>
     <text x="532.0" y="104"><tspan class="label">Host: </tspan><tspan fill="#c9d1d9" class="val">Earth</tspan></text>
-    <text x="532.0" y="123"><tspan class="label">Uptime: </tspan><tspan fill="#c9d1d9" class="val">21 years 7 months 21 days</tspan></text>
+    <text x="532.0" y="123"><tspan class="label">Uptime: </tspan><tspan fill="#c9d1d9" class="val">21 years 7 months 22 days</tspan></text>
     <text x="532.0" y="161"><tspan class="label">Languages: </tspan><tspan fill="#c9d1d9" class="val">Python, Java, JavaScript, TypeScript, Dart, Kotlin, PHP</tspan></text>
     <text x="532.0" y="180"><tspan class="label">Frameworks: </tspan><tspan fill="#c9d1d9" class="val">Flutter, React, Next.js, Node.js, Flask, Spring Boot</tspan></text>
     <text x="532.0" y="199"><tspan class="label">Cloud/DevOps: </tspan><tspan fill="#c9d1d9" class="val">Azure, Firebase, Docker, Git, GitHub Actions</tspan></text>
@@ -2491,11 +2491,11 @@
     <text x="532.0" y="294"><tspan class="label">Email: </tspan><tspan fill="#c9d1d9" class="val">bernamaia12@gmail.com</tspan></text>
     <text x="532.0" y="313"><tspan class="label">LinkedIn: </tspan><tspan fill="#c9d1d9" class="val">bernardo-maia-bpm</tspan></text>
     <text x="532.0" y="332"><tspan class="label">Discord: </tspan><tspan fill="#c9d1d9" class="val">gajonormal</tspan></text>
-    <text x="532.0" y="370"><tspan class="label">Packages: </tspan><tspan fill="#c9d1d9" class="val">0 open repositories</tspan></text>
-    <text x="532.0" y="389"><tspan class="label">Commits: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
+    <text x="532.0" y="370"><tspan class="label">Packages: </tspan><tspan fill="#c9d1d9" class="val">4 open repositories</tspan></text>
+    <text x="532.0" y="389"><tspan class="label">Commits: </tspan><tspan fill="#c9d1d9" class="val">123</tspan></text>
     <text x="532.0" y="408"><tspan class="label">Stars: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
     <text x="532.0" y="427"><tspan class="label">Followers: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
-    <text x="532.0" y="446"><tspan class="label">Contributions: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
+    <text x="532.0" y="446"><tspan class="label">Contributions: </tspan><tspan fill="#c9d1d9" class="val">145</tspan></text>
     <text x="532.0" y="465"><tspan class="label">Lines of code: </tspan><tspan fill="#c9d1d9" class="val">0</tspan><tspan fill="#8b949e" class="val"> (</tspan><tspan fill="#3fb950" class="val">0++</tspan><tspan fill="#8b949e" class="val">, </tspan><tspan fill="#f85149" class="val">0--</tspan><tspan fill="#8b949e" class="val">)</tspan></text>
     <text x="532.0" y="503"><tspan class="label">Shell: </tspan><tspan fill="#c9d1d9" class="val">zsh</tspan></text>
   </g>
