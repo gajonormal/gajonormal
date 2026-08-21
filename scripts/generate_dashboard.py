@@ -13,13 +13,13 @@ ROOT_DIR = SCRIPT_DIR.parent
 
 ART_CANVAS_LINES = 40          # vertical slots for art (increased to center with 14px height)
 ART_CANVAS_COLS = 56           # horizontal character slots
-FONT_SIZE = 14
-LINE_HEIGHT = 19
-ART_LINE_HEIGHT = 14           # Tighter line height for the ASCII art to eliminate gaps
-CHAR_WIDTH = 8.4               # monospace char width at 14px
+FONT_SIZE = 16
+LINE_HEIGHT = 22
+ART_LINE_HEIGHT = 16           # Tighter line height for the ASCII art to eliminate gaps
+CHAR_WIDTH = 9.6               # monospace char width at 16px
 
-SVG_W = 1150
-SVG_H = 620
+SVG_W = 1250
+SVG_H = 700
 PAD_TOP = 28
 PAD_LEFT = 18
 RIGHT_START_X = (ART_CANVAS_COLS + 4) * CHAR_WIDTH + PAD_LEFT + 10
