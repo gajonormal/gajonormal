@@ -2482,7 +2482,7 @@
     <text x="604.0" y="50" class="dim">─────────────────</text>
     <text x="604.0" y="94"><tspan class="label">OS: </tspan><tspan fill="#c9d1d9" class="val">Bernardo Maia</tspan></text>
     <text x="604.0" y="116"><tspan class="label">Host: </tspan><tspan fill="#c9d1d9" class="val">Earth</tspan></text>
-    <text x="604.0" y="138"><tspan class="label">Uptime: </tspan><tspan fill="#c9d1d9" class="val">21 years 8 months 1 days</tspan></text>
+    <text x="604.0" y="138"><tspan class="label">Uptime: </tspan><tspan fill="#c9d1d9" class="val">21 years 8 months 2 days</tspan></text>
     <text x="604.0" y="182"><tspan class="label">Languages: </tspan><tspan fill="#c9d1d9" class="val">Python, Java, JavaScript, TypeScript, Dart, Kotlin, PHP</tspan></text>
     <text x="604.0" y="204"><tspan class="label">Frameworks: </tspan><tspan fill="#c9d1d9" class="val">Flutter, React, Next.js, Node.js, Flask, Spring Boot</tspan></text>
     <text x="604.0" y="226"><tspan class="label">Cloud/DevOps: </tspan><tspan fill="#c9d1d9" class="val">Azure, Firebase, Docker, Git, GitHub Actions</tspan></text>
