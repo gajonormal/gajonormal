@@ -2496,7 +2496,7 @@
     <text x="604.0" y="468"><tspan class="label">Stars: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
     <text x="604.0" y="490"><tspan class="label">Followers: </tspan><tspan fill="#c9d1d9" class="val">0</tspan></text>
     <text x="604.0" y="512"><tspan class="label">Contributions: </tspan><tspan fill="#c9d1d9" class="val">320</tspan></text>
-    <text x="604.0" y="534"><tspan class="label">Lines of code: </tspan><tspan fill="#c9d1d9" class="val">195.2K</tspan><tspan fill="#8b949e" class="val"> (</tspan><tspan fill="#3fb950" class="val">182.5K++</tspan><tspan fill="#8b949e" class="val">, </tspan><tspan fill="#f85149" class="val">12.7K--</tspan><tspan fill="#8b949e" class="val">)</tspan></text>
+    <text x="604.0" y="534"><tspan class="label">Lines of code: </tspan><tspan fill="#c9d1d9" class="val">210.4K</tspan><tspan fill="#8b949e" class="val"> (</tspan><tspan fill="#3fb950" class="val">197.7K++</tspan><tspan fill="#8b949e" class="val">, </tspan><tspan fill="#f85149" class="val">12.7K--</tspan><tspan fill="#8b949e" class="val">)</tspan></text>
     <text x="604.0" y="578"><tspan class="label">Shell: </tspan><tspan fill="#c9d1d9" class="val">zsh</tspan></text>
   </g>
 
